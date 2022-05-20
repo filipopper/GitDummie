@@ -9,7 +9,7 @@ Remember to replace the fields in single quotes with your data, the file called 
 @@text purple-->optional, it will make many things easier for you@@
 -text red-->use it only in case you want to remove something from your git config or just to list your config
 ```
-<br></br>>
+<br></br>
 ```diff
 +git config --global user.name 'nombre' ->name that will appear when making a commit.
 
