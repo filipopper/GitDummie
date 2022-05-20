@@ -3,8 +3,6 @@
 -------------------------------------------
 #remember to replace the fields in single quotes with your data.
 
-**echo is similar to print statement.**
-
 git config --global user.name 'nombre' ->**name that will appear when making a commit**
 
 git config --global user.email 'mail'  ->**email that will appear when making a commit**
