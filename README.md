@@ -5,6 +5,8 @@
 
 ```diff
 - text in red
++ text in green
+```
 + git config --global user.name 'nombre' ->name that will appear when making a commit
 ```
 +git config --global alias.lodg 'log --oneline --decorate --graph'  ->**create an alias**
