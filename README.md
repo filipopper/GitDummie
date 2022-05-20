@@ -1,6 +1,7 @@
 # GitDummie
  commands needed to get started with git 👨‍💻💻
 -------------------------------------------
+**the file called necessary commands contains the basic commands for good management of git**
 #remember to replace the fields in single quotes with your data.
 
 git config --global user.name 'nombre' ->**name that will appear when making a commit**
