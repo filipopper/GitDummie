@@ -2,7 +2,7 @@
 
 commands needed to get started with git 👨‍💻💻
 -------------------------------------------
-Remember to replace the fields in single quotes with your data, the file called necessary commands contains the basic commands for good management of git, check it out.
+Remember to replace the fields in single quotes with your data, the file called necessary commands which is inside the repository contains the basic commands for good management of git, check it out.
 
 ```diff
 +text green-->necessary
