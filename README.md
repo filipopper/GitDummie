@@ -5,6 +5,12 @@ commands needed to get started with git 👨‍💻💻
 Remember to replace the fields in single quotes with your data, the file called necessary commands contains the basic commands for good management of git, check it out.
 
 ```diff
++text green-->necessary
+@@text purple-->optional@@
+-text red-->use it only in case you want to remove something from your git config or just to list your config
+```
+
+```diff
 +git config --global user.name 'nombre' ->name that will appear when making a commit.
 
 +git config --global alias.lodg 'log --oneline --decorate --graph'  ->create an alias.
