@@ -6,7 +6,7 @@
 #!/bin/bash
 
 echo "R u ready? ;)" 
-# echo is similar to print statement.
+**echo is similar to print statement.**
 
 git config --global user.name 'nombre' ->**name that will appear when making a commit**
 
