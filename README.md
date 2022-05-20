@@ -3,8 +3,8 @@
 -------------------------------------------
 #remember to replace the fields in single quotes with your data, change this txt to .sh and remove the comments specifying what each line is for.
 #I recommend running the desired command lines in git bash instead of the full script.
-#!/bin/bash
 
+#!/bin/bash
 echo "R u ready? ;)" 
 **echo is similar to print statement.**
 
