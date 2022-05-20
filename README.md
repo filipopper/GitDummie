@@ -1,11 +1,8 @@
 # GitDummie
  commands needed to get started with git
 -------------------------------------------
-#remember to replace the fields in single quotes with your data, change this txt to .sh and remove the comments specifying what each line is for.
-#I recommend running the desired command lines in git bash instead of the full script.
+#remember to replace the fields in single quotes with your data.
 
-#!/bin/bash
-echo "R u ready? ;)" 
 **echo is similar to print statement.**
 
 git config --global user.name 'nombre' ->**name that will appear when making a commit**
@@ -32,5 +29,3 @@ git config --global alias.conflict 'diff --name-only --diff-filter=U'  ->**git d
 git config --global --list  ->**list config**
 
 + **git config --global --unset user.email**  ->**Remove email**
-
-read -p "Accepting the offer? (y/n) " answer
