@@ -10,6 +10,9 @@ Remember to replace the fields in single quotes with your data, the file called 
 -text red-->use it only in case you want to remove something from your git config or just to list your config
 ```
 <br></br>
+
+# Necessary
+
 ```diff
 +git config --global user.name 'nombre' ->name that will appear when making a commit.
 
