@@ -1,7 +1,7 @@
 # GitDummie
  commands needed to get started with git
 -------------------------------------------
-#**remember to replace the fields in single quotes with your data, change this txt to .sh and remove the comments specifying what each line is for.**
+#remember to replace the fields in single quotes with your data, change this txt to .sh and remove the comments specifying what each line is for.
 #I recommend running the desired command lines in git bash instead of the full script.
 #!/bin/bash
 
