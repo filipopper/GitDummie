@@ -2,8 +2,7 @@
 
 commands needed to get started with git 👨‍💻💻
 -------------------------------------------
-Remember to replace the fields in single quotes with your data.
-the file called necessary commands contains the basic commands for good management of git.
+Remember to replace the fields in single quotes with your data, the file called necessary commands contains the basic commands for good management of git, check it out.
 
 ```diff
 +git config --global user.name 'nombre' ->name that will appear when making a commit.
@@ -22,19 +21,18 @@ the file called necessary commands contains the basic commands for good manageme
 @@ git config --global pull.rebase true  ->used to ensure history is linear by avoiding unnecessary merge commits, "I want my changes to take precedence over what everyone else has done". @@
 
 @@ git config --global alias.conflict 'diff --name-only --diff-filter=U'  ->when executed, performs a diff function on Git data sources. These data sources can be commits, branches, and files, among other possibilities. @@
+
+@@ git config --global --list  ->list config @@
 ```
-# text in gray
-@@ text in purple (and bold)@@
+```diff
+- git config --global --get-regexp alias**  ->looking for alias
+
+- git config --global --unset alias.lodg**  ->remove alias
+
+- git config --global --unset user.email**  ->Remove email
+
 ```
 
 
 
 
-
-git config --global --list  ->**list config**
-
-+ **git config --global --get-regexp alias**  ->**looking for alias**
-
-+ **git config --global --unset alias.lodg**  ->**remove alias**
-
-+ **git config --global --unset user.email**  ->**Remove email**
