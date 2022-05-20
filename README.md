@@ -31,8 +31,6 @@ Remember to replace the fields in single quotes with your data, the file called 
 # Use it only in case you want to remove something from your git config or just to list your config
 
 ```diff
-
-```diff
 - git config --global --get-regexp alias**  ->looking for alias
 
 - git config --global --unset alias.lodg**  ->remove alias
