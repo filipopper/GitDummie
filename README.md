@@ -28,7 +28,7 @@ Remember to replace the fields in single quotes with your data, the file called 
 
 @@ git config --global --list  ->list config @@
 ```
-# Use it only in case you want to remove something from your git config or just to list your config
+# Use it only in case you want to remove something
 
 ```diff
 - git config --global --get-regexp alias**  ->looking for alias
