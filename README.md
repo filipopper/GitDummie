@@ -3,7 +3,7 @@
 -------------------------------------------
 **the file called necessary commands contains the basic commands for good management of git ;)**
 
-###Remember to replace the fields in single quotes with your data
+<span style="color: green"> Remember to replace the fields in single quotes with your data </span>
 
 git config --global user.name 'nombre' ->**name that will appear when making a commit**
 
