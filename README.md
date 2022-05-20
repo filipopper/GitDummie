@@ -25,12 +25,12 @@ git config --global alias.lodg 'log --oneline --decorate --graph'  ->**create an
 
 git config --global alias.conflict 'diff --name-only --diff-filter=U'  ->**git diff is a multipurpose Git command that, when executed, performs a diff function on Git data sources. These data sources can be commits, branches, and files, among other possibilities.**
 
-# git config --global --get-regexp alias  ->**looking for alias**
++ **git config --global --get-regexp alias**  ->**looking for alias**
 
-# git config --global --unset alias.lodg  ->**remove alias**
++ **git config --global --unset alias.lodg**  ->**remove alias**
 
 git config --global --list  ->**list config**
 
-# git config --global --unset user.email  ->**Remove email**
++ **git config --global --unset user.email**  ->**Remove email**
 
 read -p "Accepting the offer? (y/n) " answer
