@@ -4,13 +4,6 @@ commands needed to get started with git 👨‍💻💻
 -------------------------------------------
 Remember to replace the fields in single quotes with your data, the file called necessary commands which is inside the repository contains the basic commands for good management of git, check it out.
 
-```diff
-+text green-->necessary
-@@text purple-->optional, it will make many things easier for you@@
--text red-->use it only in case you want to remove something from your git config or just to list your config
-```
-<br></br>
-
 # Necessary
 
 ```diff
@@ -24,6 +17,8 @@ Remember to replace the fields in single quotes with your data, the file called 
 
 +git branch --set-upstream-to=origin/master master ->link the origin/master (remote) branch to the local master branch(while on master) git pull = git pull origin master.
 ```
+# Optional (it will make many things easier for you)
+
 ```diff
 @@ git config --global color.ui true  ->automatically colorize most of the output it displays. @@
 
@@ -33,6 +28,10 @@ Remember to replace the fields in single quotes with your data, the file called 
 
 @@ git config --global --list  ->list config @@
 ```
+# Use it only in case you want to remove something from your git config or just to list your config
+
+```diff
+
 ```diff
 - git config --global --get-regexp alias**  ->looking for alias
 
