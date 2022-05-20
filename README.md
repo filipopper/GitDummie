@@ -5,7 +5,8 @@
 
 ```diff
 - text in red
-+ git config --global user.name 'nombre' ->**name that will appear when making a commit**
++ git config --global user.name 'nombre' ->name that will appear when making a commit
+```
 +git config --global alias.lodg 'log --oneline --decorate --graph'  ->**create an alias**
 +git config --global user.email 'mail'  ->**email that will appear when making a commit**
 +git config --global credential.username "usuario" ->**username that will appear when making a commit*
