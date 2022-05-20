@@ -1,7 +1,5 @@
 # GitDummie
- commands needed to get started with git 👨‍💻💻
- 
-****the file called necessary commands contains the basic commands for good management of git ;)****
+ commands needed to get started with git,the file called necessary commands contains the basic commands for good management of git ;) 👨‍💻💻
 -------------------------------------------
 #Remember to replace the fields in single quotes with your data
 
