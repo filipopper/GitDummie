@@ -2,7 +2,8 @@
 
 commands needed to get started with git 👨‍💻💻
 -------------------------------------------
-#Remember to replace the fields in single quotes with your data, the file called necessary commands contains the basic commands for good management of git.
+Remember to replace the fields in single quotes with your data.
+the file called necessary commands contains the basic commands for good management of git.
 
 ```diff
 +git config --global user.name 'nombre' ->name that will appear when making a commit.
