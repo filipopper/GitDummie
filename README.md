@@ -1,5 +1,5 @@
 # GitDummie
- commands needed to get started with git
+ commands needed to get started with git 👨‍💻💻
 -------------------------------------------
 #remember to replace the fields in single quotes with your data.
 
